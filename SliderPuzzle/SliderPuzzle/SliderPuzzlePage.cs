@@ -231,6 +231,7 @@ namespace SliderPuzzle
             if (isEmptySpot())
             {
                 Source = ImageSource.FromResource(("SliderPuzzle.img16.jpeg"));  
+
             }
         }
         public Boolean isPositionCorrect()
